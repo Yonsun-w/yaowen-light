@@ -1,0 +1,17 @@
+WRFFileDir=/data/wenjiahua/light_data/ADSNet_testdata/WRF_data
+TruthFileDir=/data/wenjiahua/light_data/ADSNet_testdata/light_data_ori_18-20
+TruthFileDirGrid=/data/wenjiahua/light_data/ADSNet_testdata/merge_light_grid/
+VisResultFileDir=none
+ModelFileDir=/data/wenjiahua/light_data/ADSNet_testdata/Models/
+RecordFileDir=/data/wenjiahua/light_data/ADSNet_testdata/test_Records/
+GridRowColNum=159
+ForecastHourNum=3
+TruthHistoryHourNum=3
+WRFChannelNum=29
+ScanStartTime=2018081200
+ScanEndTime=2018123000
+NetName=LightNet
+Batchsize=4
+LearningRate=0.0001
+EpochNum=60
+Device=cuda

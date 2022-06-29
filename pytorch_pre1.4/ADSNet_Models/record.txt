@@ -1,0 +1,10 @@
+use model file path:ADSNet_Models/model_maxPOD.pkl
+Test INFO: 
+sumPOD:0.40883  sumFAR:0.73242  sumTS:0.19293  sumETS:0.17372
+
+First 6 hours:
+sumPOD:0.47307  sumFAR:0.75504  sumTS:0.19245  sumETS:0.18146
+
+Last 6 hours:
+sumPOD:0.22204  sumFAR:0.83621  sumTS:0.10407  sumETS:0.09419
+

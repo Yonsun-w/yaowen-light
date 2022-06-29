@@ -1,0 +1,13 @@
+startTime=2021_07_10_00_00_00
+endTime=2021_07_11_23_00_00
+lonBegin=112.1876
+lonEnd=120.2276
+latBegin=36.9753
+latEnd=42.9353
+timeGap=3
+TruthFileDir=TruthFileDir/
+outputFileDir=TrueNc/
+equal_dis=0
+lon_lat_Gap=0.04
+np=1
+nc=0

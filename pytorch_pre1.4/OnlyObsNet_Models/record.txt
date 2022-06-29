@@ -1,0 +1,10 @@
+use model file path:OnlyObsNet_Models/model_maxETS.pkl
+Test INFO: 
+sumPOD:0.28904  sumFAR:0.73805  sumTS:0.15931  sumETS:0.14249
+
+First 6 hours:
+sumPOD:0.45952  sumFAR:0.77255  sumTS:0.17944  sumETS:0.16823
+
+Last 6 hours:
+sumPOD:0.02664  sumFAR:0.86722  sumTS:0.02270  sumETS:0.01982
+

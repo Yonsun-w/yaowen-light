@@ -1,0 +1,10 @@
+use model file path:OnlyWRFNet_Models/model_maxETS.pkl
+Test INFO: 
+sumPOD:0.16368  sumFAR:0.77608  sumTS:0.10443  sumETS:0.09076
+
+First 6 hours:
+sumPOD:0.13054  sumFAR:0.83468  sumTS:0.07868  sumETS:0.07113
+
+Last 6 hours:
+sumPOD:0.12721  sumFAR:0.82709  sumTS:0.07908  sumETS:0.07180
+

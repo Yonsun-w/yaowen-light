@@ -1,0 +1,16 @@
+startTime=2015_05_17_00_00_00
+endTime=2015_05_18_00_00_00
+lonBegin=100
+lonEnd=130
+latBegin=20
+latEnd=30
+timeGap=3
+TruthFileDir=TruthFileDir/
+output=npy/
+lon_lat_Gap=0.04
+edg=1
+Threshold=2
+npy=1
+nc=1
+saveImage=1
+equal_dis=0

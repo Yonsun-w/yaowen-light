@@ -1,0 +1,10 @@
+use model file path:LightNet_Models/model_maxETS.pkl
+Test INFO: 
+sumPOD:0.33825  sumFAR:0.69327  sumTS:0.19169  sumETS:0.17507
+
+First 6 hours:
+sumPOD:0.46454  sumFAR:0.74547  sumTS:0.19679  sumETS:0.18604
+
+Last 6 hours:
+sumPOD:0.11805  sumFAR:0.69953  sumTS:0.09260  sumETS:0.08778
+

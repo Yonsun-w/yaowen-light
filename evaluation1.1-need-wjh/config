@@ -1,0 +1,13 @@
+TrueFileGrid=/home/wenjiahua/windows_project/pre-eval/evaluation1.1-need-wjh/input_examples/obs
+NeedObs=1
+preFile=/home/wenjiahua/windows_project/pre-eval/evaluation1.1-need-wjh/input_examples/pre
+GroundFilePath=s
+NeedGround=0
+StartTime=202005211000
+EndTime=202005212200
+Threshold=0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9
+TimeStep=60
+PreDuration=720
+PreTimeLimit=0/60,0/180
+NeighborhoodRange=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+EvaluationMethod=N1,N2,N3,N4,POD,BIAS,FAR,FOM,TS,ETS,PC,FSS
