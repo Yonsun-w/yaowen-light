@@ -12,7 +12,9 @@
 *.nc
 /.idea
 /moeTest
-
+/*.png
+/*.npy
+/*.nc
 /*.pkl
 
 *.tar.gz
